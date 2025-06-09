@@ -3,6 +3,14 @@
     "description": "自用的一些透明图标",
     "icons": [
         {
+            "name": "Tencent",
+            "url": "https://raw.githubusercontent.com/Maxkinger/Cus_Icon/master/transparent/tencent.png"
+        },
+        {
+            "name": "TVB",
+            "url": "https://raw.githubusercontent.com/Maxkinger/Cus_Icon/master/transparent/tvb.png"
+        },
+        {
             "name": "Viu",
             "url": "https://raw.githubusercontent.com/Maxkinger/Cus_Icon/master/transparent/viu.png"
         },
