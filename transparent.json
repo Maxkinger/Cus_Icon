@@ -21,6 +21,22 @@
         {
             "name": "Wavve",
             "url": "https://raw.githubusercontent.com/Maxkinger/Cus_Icon/master/transparent/wavve.png"
+        },
+        {
+            "name": "Line Tv",
+            "url": "https://raw.githubusercontent.com/Maxkinger/Cus_Icon/master/transparent/linetv.png"
+        },
+        {
+            "name": "HamiVideo",
+            "url": "https://raw.githubusercontent.com/Maxkinger/Cus_Icon/master/transparent/hamiVideo.png"
+        },
+        {
+            "name": "Youtube_1",
+            "url": "https://raw.githubusercontent.com/Maxkinger/Cus_Icon/master/transparent/youtube_1.png"
+        },
+        {
+            "name": "Youtube_2",
+            "url": "https://raw.githubusercontent.com/Maxkinger/Cus_Icon/master/transparent/youtube_2.png"
         }
     ]
 }
