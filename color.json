@@ -1,0 +1,9 @@
+{
+"name":"图标库", 
+"description":"自用的一些图标", 
+"icons":
+    [
+    {"name":"Movie", "url":"https://raw.githubusercontent.com/Maxkinger/Cus_Icon/master/color/movie.png"},
+	{"name":"TVB", "url":"https://raw.githubusercontent.com/Maxkinger/Cus_Icon/master/color/tvb.png"}
+    ]
+}
