@@ -1,0 +1,18 @@
+{
+    "name": "图标库",
+    "description": "自用的一些透明图标",
+    "icons": [
+        {
+            "name": "Viu",
+            "url": "https://raw.githubusercontent.com/Maxkinger/Cus_Icon/master/transparent/viu.png"
+        },
+        {
+            "name": "tving",
+            "url": "https://raw.githubusercontent.com/Maxkinger/Cus_Icon/transparent/transparent/tving.png"
+        },
+        {
+            "name": "wavve",
+            "url": "https://raw.githubusercontent.com/Maxkinger/Cus_Icon/transparent/transparent/wavve.png"
+        }
+    ]
+}

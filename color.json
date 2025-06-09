@@ -1,9 +1,26 @@
 {
-"name":"图标库", 
-"description":"自用的一些图标", 
-"icons":
-    [
-    {"name":"Movie", "url":"https://raw.githubusercontent.com/Maxkinger/Cus_Icon/master/color/movie.png"},
-	{"name":"TVB", "url":"https://raw.githubusercontent.com/Maxkinger/Cus_Icon/master/color/tvb.png"}
+    "name": "图标库",
+    "description": "自用的一些彩色图标",
+    "icons": [
+        {
+            "name": "Movie",
+            "url": "https://raw.githubusercontent.com/Maxkinger/Cus_Icon/master/color/movie.png"
+        },
+        {
+            "name": "TVB",
+            "url": "https://raw.githubusercontent.com/Maxkinger/Cus_Icon/master/color/tvb.png"
+        },
+        {
+            "name": "Viu",
+            "url": "https://raw.githubusercontent.com/Maxkinger/Cus_Icon/master/color/viu.png"
+        },
+        {
+            "name": "tving",
+            "url": "https://raw.githubusercontent.com/Maxkinger/Cus_Icon/master/color/tving.png"
+        },
+        {
+            "name": "wavve",
+            "url": "https://raw.githubusercontent.com/Maxkinger/Cus_Icon/master/color/wavve.png"
+        }
     ]
 }
