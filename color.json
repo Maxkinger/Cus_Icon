@@ -41,6 +41,14 @@
         {
             "name": "Youtube_2",
             "url": "https://raw.githubusercontent.com/Maxkinger/Cus_Icon/master/color/youtube_2.png"
+        },
+        {
+            "name": "WeTV_1",
+            "url": "https://raw.githubusercontent.com/Maxkinger/Cus_Icon/master/color/wetv_1.png"
+        },
+        {
+            "name": "WeTV_2",
+            "url": "https://raw.githubusercontent.com/Maxkinger/Cus_Icon/master/color/wetv_2.png"
         }
     ]
 }
