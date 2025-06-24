@@ -15,8 +15,16 @@
             "url": "https://raw.githubusercontent.com/Maxkinger/Cus_Icon/master/color/tvb.png"
         },
         {
+            "name": "TVB1",
+            "url": "https://raw.githubusercontent.com/Maxkinger/Cus_Icon/master/color/tvb.webp"
+        },
+        {
             "name": "Viu",
             "url": "https://raw.githubusercontent.com/Maxkinger/Cus_Icon/master/color/viu.png"
+        },
+        {
+            "name": "Viu1",
+            "url": "https://raw.githubusercontent.com/Maxkinger/Cus_Icon/master/color/viu.webp"
         },
         {
             "name": "Tving",
@@ -39,12 +47,24 @@
             "url": "https://raw.githubusercontent.com/Maxkinger/Cus_Icon/master/color/linetv.png"
         },
         {
+            "name": "Line Tv1",
+            "url": "https://raw.githubusercontent.com/Maxkinger/Cus_Icon/master/color/linetv.webp"
+        },
+        {
             "name": "HamiVideo",
             "url": "https://raw.githubusercontent.com/Maxkinger/Cus_Icon/master/color/hamiVideo.png"
         },
         {
+            "name": "HamiVideo1",
+            "url": "https://raw.githubusercontent.com/Maxkinger/Cus_Icon/master/color/hamiVideo.webp"
+        },
+        {
             "name": "Youtube_1",
             "url": "https://raw.githubusercontent.com/Maxkinger/Cus_Icon/master/color/youtube_1.png"
+        },
+        {
+            "name": "Youtube_11",
+            "url": "https://raw.githubusercontent.com/Maxkinger/Cus_Icon/master/color/youtube.webp"
         },
         {
             "name": "Youtube_2",
@@ -53,6 +73,10 @@
         {
             "name": "WeTV_1",
             "url": "https://raw.githubusercontent.com/Maxkinger/Cus_Icon/master/color/wetv_1.png"
+        },
+        {
+            "name": "WeTV_11",
+            "url": "https://raw.githubusercontent.com/Maxkinger/Cus_Icon/master/color/wetv.webp"
         },
         {
             "name": "WeTV_2",
